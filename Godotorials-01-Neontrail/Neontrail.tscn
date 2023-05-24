@@ -121,3 +121,5 @@ curve = SubResource( 12 )
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource( 6 )
+
+[node name="Sprite" type="Sprite" parent="."]
